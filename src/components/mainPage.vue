@@ -90,6 +90,7 @@
      }
 </style>
 <script>
+    
 import './../assets/css/main.css'  
 import './../assets/plugins/bootstrap/js/bootstrap.min.js'
 import './../assets/js/application.js'
